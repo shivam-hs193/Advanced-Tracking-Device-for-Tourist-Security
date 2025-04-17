@@ -6,6 +6,7 @@ Key Features
 Single Press (Tactile Switch): Sends an SMS containing a Google Maps link of the current location.
 External Command (SMS): Retrieve the current location from the GPS module.
 External Command (CALL): Activate audio recording remotely.
+
 Microcontrollers Used
 Seeed Studio XIAO ESP32C3: A 32-bit single-core RISC-V microcontroller with built-in Wi-Fi and Bluetooth capabilities.
 A9G GSM/GPRS+GPS/BDS Module: Provides GSM/GPRS communication and GPS functionality.
