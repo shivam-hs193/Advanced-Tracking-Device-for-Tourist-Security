@@ -3,7 +3,7 @@ GPS Tracker and Audio Surveillance Tool
 A compact device designed for real-time location tracking and remote audio monitoring.
 
 ## Key Features
-### Single Press (Tactile Switch): Sends an SMS containing a Google Maps link of the current location.
+### Single Press (Tactile Switch): -(Sends an SMS containing a Google Maps link of the current location.)
 ### External Command (SMS): Retrieve the current location from the GPS module.
 ### External Command (CALL): Activate audio recording remotely.
 
